@@ -1,4 +1,4 @@
-# exeWithMyOwnIco
+# exeWithYourOwnIco
 ## Placeholder in Taskbar with Your Own Icon!
 
 ### Steps
